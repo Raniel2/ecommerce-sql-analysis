@@ -1,3 +1,6 @@
+-- Objetivo:
+-- usando CTE e mostrando categoria de clientes a cima da media.
+
 with gasto_cliente as (
 select 
 	c.id_cliente,
