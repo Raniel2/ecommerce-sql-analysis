@@ -1,3 +1,6 @@
+-- Objetivo:
+-- mostrar clientes inativos.
+
 select
 	c.id_cliente,
     c.nome,
