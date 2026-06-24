@@ -1,3 +1,5 @@
+-- Objetivo:
+-- Calcular o ticket médio de compra por cliente.
 SELECT
 	c.id_cliente,
     c.nome,
