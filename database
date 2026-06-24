@@ -1,1 +1,3 @@
-
+database/
+├── create_tables.sql
+└── inserts.sql
