@@ -1,3 +1,6 @@
+-- Objetivo:
+-- mostrar orank de cade cliente.
+
 SELECT
     c.id_cliente,
     c.nome,
